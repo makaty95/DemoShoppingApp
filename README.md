@@ -67,27 +67,27 @@ The app follows **MVVM architecture** with the following layers:
 
 ---
 
-## **Screenshots** 📸   
+## **Screenshots**
 - Login and Register screens
 ![Alt Text](ScreenShots/login.jpg)
+![Alt Text](ScreenShots/register.jpg)
 
-    ![Alt Text](ScreenShots/register.jpg)
 - Product Listing Screen  
 ![Alt Text](ScreenShots/products.jpg)
+
 - Product Preview Screen
 ![Alt Text](ScreenShots/product_prev.jpg)
+
 - Cart Screen
 ![Alt Text](ScreenShots/cart_empty.jpg)
+![Alt Text](ScreenShots/cart_filled.jpg)
 
-    ![Alt Text](ScreenShots/cart_filled.jpg)
 - Checkout/Billing Screen  
 ![Alt Text](ScreenShots/billing.jpg)
 
 - Payment Success & Failed Screens
 ![Alt Text](ScreenShots/payment_success.jpg)  
-
-    ![Alt Text](ScreenShots/payment_failed.jpg)
-
+![Alt Text](ScreenShots/payment_failed.jpg)
 
 - Profile screen 
 ![Alt Text](ScreenShots/profile.jpg)
