@@ -61,7 +61,7 @@ The app follows a clean **MVVM architecture**:
 - **State Management:** ViewModel + LiveData / StateFlow  
 
 
-### **Backend (Spring Boot)**
+### **Payment Backend (Spring Boot)**
 - **Framework:** Spring Boot  
 - **Payment API:** [Stripe Java SDK](https://github.com/stripe/stripe-java).
 - **Main Endpoint:**
